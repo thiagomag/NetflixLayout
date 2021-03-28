@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetflixLayout</string>
+    <string name="s1_e3">S1:E3</string>
+    <string name="house_of_cards">House of Cards</string>
+    <string name="comentario">comentario</string>
+    <string name="volume">volume</string>
+    <string name="favorito">favorito</string>
+    <string name="capitulos">capitulos</string>
+</resources>
